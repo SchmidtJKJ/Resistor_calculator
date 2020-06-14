@@ -1,3 +1,4 @@
 # Resistor_calculator
 This web application helps calculate the value of resistor for registered users while giving them points for being active on the website
 The system gives you point for registering, for loging in, for writing a review for the the application as wel as points for calculating the values. There is a user profile, a page to view the reviews as well as the leaderboard which shows the top three most active users wiht their earned points. On the ca;cultaion page, there is a toggle button that hides the screen. It wass initially meant to change the theme to dark, but it did not work as I wanted it to, so I found it cool to hide hide the page (complete blackout).
+The application needs a database as specified in the dbConnect file to run smoothly. WAMP/XAMP/LAMP are greadt eviviroonment for testing it out.
